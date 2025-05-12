@@ -3,6 +3,6 @@ import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js
 
 // Cria o client com a URL e a chave fornecidas
 export const supabase = createClient(
-  'https://wqrvadycionozczmqgoj.supabase.co',
-  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndxcnZhZHljaW9ub3pjem1xZ29qIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY0OTUzOTIsImV4cCI6MjA2MjA3MTM5Mn0.mMVAn7kJQH8bLhijfug2E0lMvpjRkKRE7CC29IFNNt4'
+  'https://xchqgudtzrocbxjvbnuk.supabase.co',
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhjaHFndWR0enJvY2J4anZibnVrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY0NTc3ODksImV4cCI6MjA2MjAzMzc4OX0.Zvpv3ojMbSh0PnI1ICJV7SRzO_dNr5E4PTWfTe9dX60'
 )
