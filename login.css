@@ -3,9 +3,9 @@
 
 /*-------------VÁRIAVEIS GLOBAIS----------------*/
 :root {
-    --cor-primaria: |#;
-    --cor-primaria-escura: #;
-    --cor-bg: #f5f7fa;
+    --cor-primaria: #43679D;
+    --cor-primaria-escura: #0D1321;
+    --cor-bg: #B3E3F9;
     --cor-branco: #ffffff;
     --cor-borda: #ddd;
     --cor-sombra: rgba(0, 0, 0, 0.15);
