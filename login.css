@@ -26,5 +26,5 @@
 }
 
 body{
-    background: linear-gradient(var(--cor-primaria, --cor-primaria-escura));
+    background: linear-gradient(var(--cor-primaria, --cor-primaria-escura, --cor-bg));
 }
