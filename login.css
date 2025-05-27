@@ -26,5 +26,5 @@
 }
 
 body{
-    background:(var(--cor-primaria, --cor-primaria-escura, --cor-bg));
+    background:var(--cor-primaria, --cor-primaria-escura, --cor-bg);
 }
