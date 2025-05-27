@@ -5,8 +5,8 @@
 :root {
     --cor-primaria: #43679D;
     --cor-primaria-escura: #0D1321;
-    --cor-bg: #B3E3F9;
-    --cor-branco: #ffffff;
+    --cor-bg: ;
+    --cor-branco:#B3E3F9 ;
     --cor-borda: #ddd;
     --cor-sombra: rgba(0, 0, 0, 0.15);
     --cor-texto: #333;
@@ -29,3 +29,4 @@ body{
     font-family: var();
 }
 
+#ffffff
