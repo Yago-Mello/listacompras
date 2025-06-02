@@ -25,6 +25,9 @@
     box-sizing: border-box;
 }
 
+/*---------body--------*/
 body{
-    background:var(--cor-primaria, --cor-primaria-escura, --cor-bg);
+    font-family: var(--fonte);
+    background: #2A7B9B;
+    background: var(90deg --cor-primaria, --cor-primaria-escura, --cor-bg);
 }
