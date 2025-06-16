@@ -28,7 +28,7 @@
 /*-------body----------*/
 body {
     font-family: var(--fonte);
-    background: black
+    background: rgb(77, 77, 77)
     display: flex;
     justify-content: center;
     align-items: center;
