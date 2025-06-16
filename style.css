@@ -119,7 +119,7 @@ button[onclick="logout()"]:hover {
 #item:focus {
   border-color: var(--cor-primaria-escura);
   outline: none;
-  box-shadow: 0 0 0 3px rgba(107, 115, 255, 0.25);
+  box-shadow: 0 0 0 3px rgb(77, 77, 77);
 }
 
 button[onclick="adicionarItem()"] {
@@ -196,5 +196,5 @@ button[onclick="adicionarItem()"]:hover {
 
 .item-comprado .item-info span {
     text-decoration: line-through;
-    color: #888;
+    color: white;
 }

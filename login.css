@@ -28,7 +28,7 @@
 /*-------body----------*/
 body {
     font-family: var(--fonte);
-    background: rgb(77, 77, 77)
+    background: rgb(77, 77, 77);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -94,7 +94,7 @@ button {
     font-weight: 500;
     border: none;
     border-radius: var(--raio);
-    background-color: var(--cor-primaria);]
+    background-color: var(--cor-primaria);
     transition: var(--transition);
     cursor: poniter;
 }
