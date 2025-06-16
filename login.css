@@ -28,7 +28,7 @@
 /*-------body----------*/
 body {
     font-family: var(--fonte);
-background: 90deg, black
+    background: black
     display: flex;
     justify-content: center;
     align-items: center;
