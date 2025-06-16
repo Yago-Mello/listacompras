@@ -28,7 +28,8 @@
 /*-------body----------*/
 body {
     font-family: var(--fonte);
-    background: rgb(77, 77, 77);
+    background: #2A7B9B;
+background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(199, 87, 87) 80%, rgb(0, 0, 0) 100%);
     display: flex;
     justify-content: center;
     align-items: center;
